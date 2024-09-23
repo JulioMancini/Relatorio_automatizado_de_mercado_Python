@@ -1,2 +1,1 @@
-Relatório automatizado de mercado: Como pegar cotações históricas de ações/indices
-Envinar relatórios por email com gráficos atualizaos
+Relatório automatizado de mercado: Como pegar cotações históricas de ações/índices. Enviar relatórios por e-mail com gráficos atualizados
